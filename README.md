@@ -1,4 +1,4 @@
-# Maven Roasters Coffe Shop Sales Dashboard(MS Excel)
+# Maven Roasters Coffee Shop Sales Dashboard(MS Excel)
 An Interactive Analysis Dashboard of sales of a Coffee Shop Created in Microsoft Excel
 
 # Project Objective
